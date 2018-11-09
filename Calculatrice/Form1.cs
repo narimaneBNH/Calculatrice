@@ -154,6 +154,7 @@ namespace Calculatrice
                             else
                             {
                             
+
                                 MessageBoxButtons buttons = MessageBoxButtons.OK;
                                 string message = "division /0 est inaccessible!!";
                                 MessageBox.Show(message, "Erreur!!", buttons);
