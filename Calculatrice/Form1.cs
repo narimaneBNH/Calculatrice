@@ -163,7 +163,7 @@ namespace Calculatrice
                         }
                 
             }
-            
+           
             
             string calResult = Convert.ToString(resultat);       
             textBox1.Text = calResult;
